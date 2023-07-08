@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import rentcategoryImage from "../assets/jpg/rentcategoryImage.jpg";
+import rentcategoryImage from "../assets/jpg/rentCategoryImage.jpg";
 import sellCategoryImage from "../assets/jpg/sellCategoryImage.jpg";
 import HomeSlider from "../components/HomeSlider";
 function Explore() {
